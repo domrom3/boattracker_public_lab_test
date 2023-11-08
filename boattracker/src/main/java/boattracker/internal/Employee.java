@@ -1,4 +1,6 @@
-package boattracker;
+package boattracker.internal;
+
+import boattracker.boats.*;
 
 public class Employee {
     private int empId;
